@@ -43,14 +43,14 @@
    <widget class="QLabel" name="output_datos">
     <property name="geometry">
      <rect>
-      <x>10</x>
-      <y>100</y>
-      <width>751</width>
+      <x>190</x>
+      <y>90</y>
+      <width>411</width>
       <height>61</height>
      </rect>
     </property>
     <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="input_dni">
